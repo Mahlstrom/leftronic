@@ -1,0 +1,21 @@
+{
+  "name": "mahlstrom/leftronic",
+  "description": "API for Leftronic",
+  "keywords": [
+    "leftronic"
+  ],
+  "license": "Leftronic",
+  "authors": [
+    {
+      "name": "Magnus Ahlström",
+      "email": "mahlstrom@atuin.se",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.0.0"
+  },
+  "autoload": {
+    "files": ["leftronic.php"]
+  }
+}
